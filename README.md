@@ -10,6 +10,7 @@ An interactive data analysis project exploring employee attrition trends using E
 - [Tools Used](#tools-used)
 - [Project Goals](#project-goals)
 - [Acknowledgments](#acknowledgments)
+- [Disclaimer](#Disclaimer)
 
 ## Repository Structure
 
@@ -48,3 +49,6 @@ Inspired by real-world HR analytics challenges and best practices in data presen
 
 ---
 
+## Disclaimer
+
+This project is for portfolio purposes only. The original concept, dataset, and dashboard design are not mine. I have adapted and documented the work to demonstrate technical and presentation skills. No commercial use is intended, and all rights remain with the original creator or source.
